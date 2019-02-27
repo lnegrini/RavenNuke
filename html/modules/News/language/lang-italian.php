@@ -79,7 +79,7 @@ define('_OPTIONS','Opzioni');
 define('_PAGINATOR_TOTALSTORIES','articoli totali');
 define('_PARENT','Predecessore');
 define('_PDATE','Data:');
-define('_PDF','Save as PDF');
+define('_PDF','Salva come PDF');
 define('_PLAINTEXT','Testo piatto');
 define('_POSTANON','Commenta in modo anonimo');
 //define('_PREVIEW','Anteprima');
